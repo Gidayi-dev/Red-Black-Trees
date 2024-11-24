@@ -1,4 +1,4 @@
-# Red-Black Trees in JavaScript
+# Red-Black Trees
 
 ## Overview
 
